@@ -3,21 +3,19 @@ template: home
 categories:
   - name: 常用网站
     sites:
-      - name: 百度
+      - name: 必应
         description: 中文搜索引擎
-        remark: 百度
-        url: https://www.baidu.com/
+        remark: 必应
+        url: www.bing.com/
       - name: 谷歌
         description: 国际搜索引擎
         url: https://www.google.com/
-      - name: 微博
-        description: 中文社交媒体平台
-        icon: fas fa-book
-        url: https://weibo.com/
       - name: 哔哩哔哩
         description: 知名视频社区
-        icon: fas fa-book
         url: https://www.bilibili.com/
+      - name: cs自学指南
+        description: cs自学指南
+        url: https://csdiy.wiki/
   - name: 开发技术
     sites:
       - name: GitHub
@@ -26,31 +24,29 @@ categories:
       - name: Stack Overflow
         description: 程序员问答社区
         url: https://stackoverflow.com/
-      - name: MDN Web Docs
-        description: Web技术官方文档
-        url: https://developer.mozilla.org/zh-CN/
+      - name: Node Seek
+        description: Node Seek
+        url: https://www.nodeseek.com/
+      - name: Linux Do
+        description: Linux Do
+        url: https://linux.do/
+      - name: Docker镜像监控
+        description: Docker镜像监控
+        url: https://status.anye.xyz/
       - name: V2EX
         description: 创意工作者社区
         url: https://www.v2ex.com/
-  - name: 设计与灵感
+  - name: 脚本
     sites:
-      - name: Dribbble
-        description: 设计作品分享社区
-        url: https://dribbble.com/
+      - name: linux一键换源
+        description: linux一键换源
+        url: https://linuxmirrors.cn/
       - name: Behance
         description: 创意人士作品集展示平台
         url: https://www.behance.net/
       - name: Unsplash
         description: 免费高质量图片素材库
         url: https://unsplash.com/
-  - name: 新闻资讯
-    sites:
-      - name: 澎湃新闻
-        description: 原创新闻与深度报道
-        url: https://www.thepaper.cn/
-      - name: 36氪
-        description: 科技创投媒体
-        url: https://36kr.com/
   - name: 效率工具
     sites:
       - name: 在线工具箱
