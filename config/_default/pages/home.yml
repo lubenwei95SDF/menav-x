@@ -16,6 +16,20 @@ categories:
       - name: cs自学指南
         description: cs自学指南
         url: https://csdiy.wiki/
+  - name: ai网站
+    sites:
+      - name: Gemini
+        description: Gemini
+        url: https://gemini.google.com/
+      - name: 豆包
+        description: 豆包
+        url: https://www.doubao.com/chat/
+      - name: Chatgpt
+        description: chatgpt
+        url: https://www.doubao.com/chat/
+      - name: 腾讯元宝
+        description: 腾讯元宝
+        url: https://yuanbao.tencent.com/chat/naQivTmsDa
   - name: 开发技术
     sites:
       - name: GitHub
