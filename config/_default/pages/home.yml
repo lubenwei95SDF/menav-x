@@ -41,12 +41,7 @@ categories:
       - name: linux一键换源
         description: linux一键换源
         url: https://linuxmirrors.cn/
-      - name: Behance
-        description: 创意人士作品集展示平台
-        url: https://www.behance.net/
-      - name: Unsplash
-        description: 免费高质量图片素材库
-        url: https://unsplash.com/
+
   - name: 效率工具
     sites:
       - name: 在线工具箱
@@ -55,3 +50,11 @@ categories:
       - name: Notion
         description: 笔记、知识库与任务管理工具
         url: https://www.notion.so/
+  - name: 娱乐
+    sites:
+      - name: Behance
+        description: 创意人士作品集展示平台
+        url: https://www.behance.net/
+      - name: Unsplash
+        description: 免费高质量图片素材库
+        url: https://unsplash.com/
