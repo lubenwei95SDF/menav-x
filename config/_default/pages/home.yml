@@ -64,6 +64,9 @@ categories:
       - name: Notion
         description: 笔记、知识库与任务管理工具
         url: https://www.notion.so/
+      - name: plantuml
+        description: 画图
+        url: https://www.plantuml.com/
   - name: 娱乐
     sites:
       - name: Behance
