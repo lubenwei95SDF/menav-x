@@ -53,6 +53,9 @@ categories:
       - name: 廖雪峰学习网站
         description: 廖雪峰学习网站
         url: https://liaoxuefeng.com/books/python
+      - name: zlibrary
+        description: 图书馆
+        url: https://z-library.sk/
   - name: 脚本
     sites:
       - name: linux一键换源
